@@ -1,42 +1,16 @@
 What happens when...
 ====================
 
-This repository is an attempt to answer the age old interview question "What
-happens when you type google.com into your browser's address box and press
-enter?"
-
-Except instead of the usual story, we're going to try to answer this question
-in as much detail as possible. No skipping out on anything.
-
-This is a collaborative process, so dig in and try to help out! There's tons of
-details missing, just waiting for you to add them! So send us a pull request,
-please!
-
-This is all licensed under the terms of the `Creative Commons Zero`_ license.
-
-Read this in `简体中文`_ (simplified Chinese). NOTE: this has not been reviewed
-by the alex/what-happens-when maintainers.
+![](http://previews.123rf.com/images/sima/sima1102/sima110200011/8808150-Portrait-of-laughing-senior-woman-working-at-computer-Stock-Photo.jpg)
 
 Table of Contents
 ====================
 
-.. contents::
-   :backlinks: none
-   :local:
-   
+![](http://www.babaimage.com/images/27-clay-pot-crafts-table-of-contents.jpg)
+
 The "g" key is pressed
 ----------------------
-The following sections explains all about the physical keyboard
-and the OS interrupts. But, a whole lot happens after that which
-isn't explained. When you just press "g" the browser receives the
-event and the entire auto-complete machinery kicks into high gear.
-Depending on your browser's algorithm and if you are in
-private/incognito mode or not various suggestions will be presented
-to you in the dropbox below the URL bar. Most of these algorithms
-prioritize results based on search history and bookmarks. You are
-going to type "google.com" so none of it matters, but a lot of code
-will run before you get there and the suggestions will be refined
-with each key press. It may even suggest "google.com" before you type it.
+![](https://thumbs.dreamstime.com/x/success-keyboard-4213584.jpg)
 
 The "enter" key bottoms out
 ---------------------------
